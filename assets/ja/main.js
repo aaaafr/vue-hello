@@ -10,7 +10,7 @@
         
        data:{
              title: "Hello vue.js", 
-             img: "../assets/img/IMG_2566.jpg"
+             img: "./assets/img/IMG_2566.jpg"
         },
     }
 );
